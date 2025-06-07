@@ -5,22 +5,54 @@
 }
 
 :root {
-    font-family: "Archivo", sans-serif;
+    /* FONTES */
+    --font-family: 'Archivo', sans-serif;
+
+    --heading1: 800 24px/135% var(--font-family);
+    --heading2: 800 16px/140% var(--font-family);
+    --heading3: 800 14px/140% var(--font-family);
+    --text-span: 600 14px/145% var(--font-family);
+    --text: 400 14px/160% var(--font-family);
 
     /* PRODUTO */
     --brand-color-light: #60A5FA;
     --brand-color-dark: #1D4ED8;
-
     /* BASE */
     --bg-color: #0F172A;
     --stroke-color: #1E293B;
-
     /* TEXTOS */
     --text-color-primary: #F1F5F9;
     --text-color-secondary: #CBD5E1;
 }
 
 body {
+    font: var(--text);
     color: var(--text-color-primary);
     background-color: var(--bg-color);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: var(--brand-color-light);
+}
+
+h1, h2, h3 {
+    font: inherit;
+}
+
+h1 {
+    font: var(--heading1);
+    color: var(--brand-color-light);
+}
+
+h2 {
+    font: var(--heading2);
+}
+
+h3 {
+    font: var(--heading3);
 }
