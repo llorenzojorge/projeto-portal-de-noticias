@@ -13,6 +13,7 @@
     --heading3: 800 14px/140% var(--font-family);
     --text-span: 600 14px/145% var(--font-family);
     --text: 400 14px/160% var(--font-family);
+    --text-link: 700 16px/140% var(--font-family);
 
     /* PRODUTO */
     --brand-color-light: #60A5FA;
@@ -26,6 +27,8 @@
 }
 
 body {
+    margin: auto;
+    width: 1280px;
     font: var(--text);
     color: var(--text-color-primary);
     background-color: var(--bg-color);
