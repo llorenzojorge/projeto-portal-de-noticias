@@ -27,11 +27,14 @@
 }
 
 body {
-    margin: auto;
-    width: 1280px;
     font: var(--text);
     color: var(--text-color-primary);
     background-color: var(--bg-color);
+}
+
+main {
+    margin-top: 40px;
+    margin-bottom: 80px;
 }
 
 a {
@@ -58,4 +61,14 @@ h2 {
 
 h3 {
     font: var(--heading3);
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    max-width: 1280px;
+    padding-inline: 32px;
+    margin-inline: auto;
 }
