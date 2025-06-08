@@ -2,6 +2,8 @@ header {
     padding-inline: 32px;
 }
 
+/* NAV-PRIMARY */
+
 #nav-primary {
     padding-block: 20px;
 
@@ -17,4 +19,15 @@ header {
 
 #nav-primary strong {
     font: var(--text-link);
+}
+
+/* NAV-SECONDARY */
+
+#nav-secondary {
+    padding-block: 14px;
+    
+    display: flex;
+    justify-content: space-between;
+
+    border-block: solid 1px var(--stroke-color);
 }
