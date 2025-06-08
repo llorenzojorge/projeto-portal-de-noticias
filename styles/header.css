@@ -4,21 +4,17 @@ header {
 
 #nav-primary {
     padding-block: 20px;
-}
 
-#nav-primary ul {
     display: flex;
     justify-content: space-between;
-
-    list-style: none;
 }
 
-#nav-primary ul li {
+#nav-primary div {
     display: flex;
     gap: 8px;
     align-items: center;
 }
 
-#nav-primary a {
+#nav-primary strong {
     font: var(--text-link);
 }
