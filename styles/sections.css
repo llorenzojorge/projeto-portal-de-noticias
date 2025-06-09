@@ -3,9 +3,8 @@
         height: 100%;
         object-fit: cover;
     }
-}
 
-.card {
+    .card {
     border-radius: 4px;
     overflow: hidden;
     position: relative;
@@ -31,4 +30,5 @@
             margin-top: 8px;
         }
     }
+}
 }
