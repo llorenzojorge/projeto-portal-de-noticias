@@ -5,7 +5,7 @@ Este é um projeto de uma página web estática desenvolvida com **HTML5** e **C
 ## 🔗 Acesse o projeto online
 Você pode visualizar o site publicado via GitHub Pages clicando no link abaixo:
 
-👉 [Acessar Conheça Busan](https://llorenzojorge.github.io/projeto-portal-de-noticias/)
+👉 [Acessar Portal de Notícias](https://llorenzojorge.github.io/projeto-portal-de-noticias/)
 
 ## 📌 Objetivo do projeto
 Este projeto foi desenvolvido com fins **educacionais**, como parte da minha prática em **desenvolvimento web front-end**, com foco em estruturação semântica, organização visual por meio de Grid/Flexbox e uso modular de CSS. A proposta é simular uma experiência inicial de construção de um portal real, respeitando boas práticas de código e design.
