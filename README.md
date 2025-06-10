@@ -1,4 +1,4 @@
-# 🌏 Projeto: Portal de Notícias
+# 📰 Projeto: Portal de Notícias
 
 Este é um projeto de uma página web estática desenvolvida com **HTML5** e **CSS3**, com o objetivo de simular um portal de notícias com foco em tecnologia. O projeto foi criado para exercitar boas práticas de **estrutura semântica**, **layout em Grid/Flexbox**, e organização modular de estilos.
 
