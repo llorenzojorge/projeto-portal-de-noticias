@@ -33,3 +33,8 @@
 .text-sm {
     font: var(--text-sm);
 }
+
+.text-sm2 {
+    font: var(--text-sm2);
+    color: var(--text-color-secondary);
+}
