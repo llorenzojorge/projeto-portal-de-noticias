@@ -30,19 +30,21 @@ projeto-portal-de-noticias/
 
 ├── index.html # Estrutura da página
 
+├── assets/ # Imagens e ícones do projeto
+
 ├── styles/
 
-│ ├── global.css # Estilos base e variáveis
+  ├── global.css # Estilos base e variáveis
 
-│ ├── header.css # Estilos do cabeçalho e navegação
+  ├── header.css # Estilos do cabeçalho e navegação
 
-│ ├── sections.css # Estilos das seções principais
+  ├── sections.css # Estilos das seções principais
 
-│ ├── utility.css # Classes utilitárias
+  ├── utility.css # Classes utilitárias
 
-│ └── index.css # Arquivo central que importa os estilos
+  └── index.css # Arquivo central que importa os estilos
 
-├── assets/ # Imagens e ícones do projeto
+
 
 ##🚀 Como rodar localmente
 
